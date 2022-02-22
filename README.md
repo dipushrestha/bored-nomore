@@ -1,4 +1,4 @@
-### bored-nomore
+# bored-nomore
 
 ## Getting Started
 
